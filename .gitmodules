@@ -1,0 +1,3 @@
+[submodule "robot-assets"]
+	path = robot-assets
+	url = https://github.com/ankurhanda/robot-assets.git
