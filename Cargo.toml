@@ -4,3 +4,10 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.100"
+nalgebra = "0.34.1"
+rerun = "0.27.2"
+
+[[bin]]
+name = "urdf-test"
+path = "src/bin/urdf_test.rs"
